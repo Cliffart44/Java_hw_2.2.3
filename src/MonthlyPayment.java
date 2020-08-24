@@ -1,4 +1,4 @@
-public class Calculate {
+public class MonthlyPayment {
     public double calculate(double creditAmount, double creditTermMonths){
         Numerator service = new Numerator();
         Denumerator service2 = new Denumerator();
